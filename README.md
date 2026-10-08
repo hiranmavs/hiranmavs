@@ -1,4 +1,11 @@
 <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&color=1A9AF7&center=true&vCenter=true&width=750&lines=Hiranmay+Singha;Carpe+Diem;Veni,+Vidi,+Vici;Oh+Captain,+My+Captain!" alt="Typing SVG" />
+  </a>
+</h1>
+
+
+<h1 align="center">
   <span>
     Hi!
     <img 
