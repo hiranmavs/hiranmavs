@@ -1,5 +1,19 @@
-# 👋 Hi, I'm Hiranmay Singha<br><br>🎓 **B.Sc. Computer Science Student** at **APC Roy Government College**<br><br>💻 Interested in **Programming, Computer Science, Data & Emerging Technologies**<br>📚 Currently learning and improving my skills in **Python, SQL, Data Structures & Algorithms, and Computer Science fundamentals**.<br>🚀 Exploring **Generative AI, Machine Learning, and practical software projects**.<br><br>I enjoy learning new technologies, building projects, and continuously developing my technical and problem-solving skills.<br><br>**Learning • Building • Exploring • Growing** 🚀<br>
+### - Hi, I'm Hiranmay Singha<br><br>🎓 **B.Sc. Computer Science Student** at **APC Roy Government College**<br><br>💻
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative AI, Machine Learning
+- ✨ Finance & Economy
+### - Hobbies : 
+- ✨ Watching Anime
+- ✨ Reading Books
+- ✨ Volleyball (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
