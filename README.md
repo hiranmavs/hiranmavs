@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Hiranmay Singha<br><br>🎓 **B.Sc. Computer Science Student** at **APC Roy Government College**<br><br>💻 Interested in **Programming, Computer Science, Data & Emerging Technologies**<br>📚 Currently learning and improving my skills in **Python, SQL, Data Structures & Algorithms, and Computer Science fundamentals**.<br>🚀 Exploring **Generative AI, Machine Learning, and practical software projects**.<br><br>I enjoy learning new technologies, building projects, and continuously developing my technical and problem-solving skills.<br><br>**Learning • Building • Exploring • Growing** 🚀<br>
 
 
