@@ -50,6 +50,15 @@ Copy
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiranmavs&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiranmavs&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiranmavs&theme=dark)
+
+
+
+
 ---
 
 <p align="center">
