@@ -50,3 +50,12 @@ Copy
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+---
+
+<p align="center">
+  <i>Code. Learn. Build. Repeat.</i>
+</p>
+
+<p align="center">
+  Thank you for visiting my profile. If you find any repository useful, please consider starring it.
+</p>
