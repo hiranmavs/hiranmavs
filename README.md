@@ -79,25 +79,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiranmavs&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiranmavs&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiranmavs&theme=dark&background=0d1117&ring=58a6ff&fire=ff7b42&currStreakLabel=58a6ff)
-
-</div>
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 <p align="center">
   <i>Code. Learn. Build. Repeat.</i>
 </p>
